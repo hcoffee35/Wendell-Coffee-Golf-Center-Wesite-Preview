@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+<title id="title">Wendell Coffee Golf and Event Center logo mark</title>
+<desc id="desc">Abstract golfer in black and green with a gold swing arc and red heart accent.</desc>
+<rect width="120" height="120" rx="16" fill="#fffdf8"/>
+<path d="M23 101 C39 87 43 69 48 48 C55 25 70 16 96 19" fill="none" stroke="#111713" stroke-width="8" stroke-linecap="round"/>
+<path d="M49 90 C61 75 69 60 72 39 C74 29 80 24 91 24" fill="none" stroke="#0b8b44" stroke-width="7" stroke-linecap="round"/>
+<circle cx="67" cy="28" r="7" fill="#0b8b44"/>
+<path d="M63 36 C55 46 53 59 58 69 L72 86" fill="none" stroke="#0b8b44" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M59 49 L42 56" fill="none" stroke="#0b8b44" stroke-width="6" stroke-linecap="round"/>
+<path d="M58 50 L75 45" fill="none" stroke="#0b8b44" stroke-width="6" stroke-linecap="round"/>
+<path d="M75 45 L98 73" fill="none" stroke="#0b8b44" stroke-width="5" stroke-linecap="round"/>
+<path d="M72 86 L84 105" fill="none" stroke="#0b8b44" stroke-width="6" stroke-linecap="round"/>
+<path d="M56 69 L45 91" fill="none" stroke="#0b8b44" stroke-width="6" stroke-linecap="round"/>
+<path d="M30 29 C48 13 77 11 101 26 C87 31 74 38 63 49" fill="none" stroke="#d6a12a" stroke-width="6" stroke-linecap="round"/>
+<path d="M81 20 C85 13 96 15 97 23 C98 32 88 35 82 29 C76 35 66 32 67 23 C68 15 78 13 81 20Z" fill="#b01820" transform="scale(.35) translate(151 19)"/>
+</svg>
